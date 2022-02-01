@@ -1,0 +1,10 @@
+SRP,phrase,direction
+DDR,dna damage,pos
+UPR,er stress,pos
+UPR,unfolded protein response,pos
+HSR,heat shock,pos
+HPX,hypoxia,pos
+MTL,metal stress,pos
+MTL,chelator,neg
+OSR,oxidative stress,pos
+OSR,antioxidant,neg
